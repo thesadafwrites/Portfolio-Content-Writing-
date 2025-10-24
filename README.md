@@ -77,8 +77,7 @@ With a strong command of **SEO, AI tools, and analytics**, I create content that
 
 ## 📫 Let’s Connect
 📧 Email: **sadafduaa305@gmail.com**  
-🔗 LinkedIn: [www.linkedin.com/in/sadaf-duaa](https://www.linkedin.com/in/sadaf-duaa)  
-🌐 Portfolio Site: [https://thesadafwrites.github.io](#) *(optional later)*  
+🔗 LinkedIn: [www.linkedin.com/in/sadaf-duaa](https://www.linkedin.com/in/sadaf-duaa)   
 
 ---
 
