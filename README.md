@@ -18,6 +18,30 @@ With a strong command of **SEO, AI tools, and analytics**, I create content that
 
 ---
 
+## 🏆 Key Achievements
+
+- Ranked multiple SEO articles in competitive niches including digital marketing and telecom industry  
+- Created high-performing content for international clients (UK, UAE, US markets)  
+- Specialized in writing SEO-driven blogs that improve organic visibility and user engagement  
+- Experienced in keyword research, content strategy, and on-page SEO optimization using Ahrefs, Semrush, and Google Trends  
+- Delivered content that aligns with both search intent and business goals
+
+  ---
+
+  ## 🧠 My Writing Process
+
+My content creation approach is structured and SEO-driven to ensure high-quality output and ranking potential:
+
+1. **Keyword Research** – Using Ahrefs, Semrush, and Google Trends  
+2. **Search Intent Analysis** – Understanding user needs and ranking opportunities  
+3. **Content Structuring** – Creating SEO-friendly H1, H2, H3 hierarchy  
+4. **Content Writing** – Engaging, clear, and value-driven writing  
+5. **SEO Optimization** – Internal linking, readability, and keyword placement  
+6. **Final Editing** – Proofreading, refinement, and ranking optimization
+
+---
+
+
 ## 💼 Work Experience  
 
 **Technical Content Writer – Khaleef Technologies, Lahore (07/2025 – Present)**  
@@ -36,6 +60,17 @@ With a strong command of **SEO, AI tools, and analytics**, I create content that
 - Utilized **SurferSEO, Google Search Console, and HubSpot** to improve ranking and engagement.  
 
 ---
+
+## ⭐ Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [DU Internet Plans for Remote Work](https://arktel.ae/du-internet-plans-for-remote-work/) | High-ranking SEO blog targeting remote professionals in the UAE, focusing on internet speed, stability, and productivity needs. |
+| [DU Business Internet: Essential vs Complete vs Starter](https://arktel.ae/du-essential-vs-complete-vs-starter-business-internet/) | Comparative SEO content helping businesses choose the right DU internet plan based on pricing, features, and scalability. |
+| [SEO vs PPC in Dubai](https://avarozdigital.com/seo-vs-ppc-dubai/) | Strategic comparison article explaining ROI differences between SEO and PPC for Dubai-based businesses. |
+
+---
+
 
 ## 🌍 Published Work  
 
@@ -76,6 +111,17 @@ With a strong command of **SEO, AI tools, and analytics**, I create content that
 
 ---
 
+## 💡 What I Can Do For You
+
+- SEO Blog Writing that ranks on Google  
+- Website Copywriting for agencies, SaaS, and businesses  
+- High-conversion Landing Pages  
+- E-commerce Product Descriptions  
+- Content Strategy & Keyword Research  
+- AI-assisted SEO Content Optimization
+
+  ---
+  
 ## 🧠 Tools & Skills
 - SEO Optimization (On-page & Keyword Research)  
 - **Semrush, Ahrefs, SurferSEO, Google Trends & HubSpot** for data-driven content strategy  
@@ -83,6 +129,19 @@ With a strong command of **SEO, AI tools, and analytics**, I create content that
 - AI Content Tools (Claude, ChatGPT, Jasper, Writesonic, etc.)  
 - WordPress, CMS & Content Planning  
 - Strong grasp of Google Search Console and SEO best practices  
+
+---
+
+## 🚀 Open to Opportunities
+
+I am currently open to opportunities in:
+
+- SEO Content Writing  
+- Copywriting (Web & Marketing Content)  
+- Content Strategy Roles  
+- Digital Marketing Content Positions  
+
+I am passionate about creating content that not only ranks but also converts and drives measurable business growth.
 
 ---
 
