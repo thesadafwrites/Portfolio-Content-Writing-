@@ -111,14 +111,21 @@ My content creation approach is structured and SEO-driven to ensure high-quality
 
 ---
 
-## 💡 What I Can Do For You
+## 🚀 What I Do
 
-- SEO Blog Writing that ranks on Google  
-- Website Copywriting for agencies, SaaS, and businesses  
+I help businesses grow through strategic content:
+
+- SEO Blog Writing (Rank-focused & search intent optimized)  
+- Website Copywriting for SaaS, Agencies & Businesses  
 - High-conversion Landing Pages  
 - E-commerce Product Descriptions  
+- Technical Documentation & User Manuals  
 - Content Strategy & Keyword Research  
-- AI-assisted SEO Content Optimization
+- Keyword Mapping & Content Planning  
+- On-page SEO Optimization (H1, H2, Meta Tags, Internal Linking)  
+- Competitor Analysis & Content Gap Research  
+- AI-assisted SEO Content Optimization  
+- Brand Storytelling & Copywriting  
 
   ---
   
