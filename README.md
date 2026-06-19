@@ -28,20 +28,6 @@ With a strong command of **SEO, AI tools, and analytics**, I create content that
 
   ---
 
-  ## 🧠 My Writing Process
-
-My content creation approach is structured and SEO-driven to ensure high-quality output and ranking potential:
-
-1. **Keyword Research** – Using Ahrefs, Semrush, and Google Trends  
-2. **Search Intent Analysis** – Understanding user needs and ranking opportunities  
-3. **Content Structuring** – Creating SEO-friendly H1, H2, H3 hierarchy  
-4. **Content Writing** – Engaging, clear, and value-driven writing  
-5. **SEO Optimization** – Internal linking, readability, and keyword placement  
-6. **Final Editing** – Proofreading, refinement, and ranking optimization
-
----
-
-
 ## 💼 Work Experience  
 
 **Technical Content Writer – Khaleef Technologies, Lahore (07/2025 – Present)**  
@@ -71,8 +57,32 @@ My content creation approach is structured and SEO-driven to ensure high-quality
 
 ---
 
-
 ## 🌍 Published Work  
+
+## 🎮 Gaming Content Experience (Published Work)
+
+Worked with **Tapfire Gaming Development Company**, creating full-scale gaming content including game descriptions, how-to-play guides, FAQs, and SEO content for publishing platforms.
+
+### 🕹️ Games I Worked On
+
+- My Perfect Farm  
+- Cowboy Lasso Master  
+- Nerd’s Revenge  
+- Cricket Clash  
+- Jackaroo  
+
+---
+
+### 📌 Published Work
+
+| Project | Platform |
+|--------|----------|
+| My Perfect Farm | https://myperfectfarm.games/ |
+| My Perfect Farm (App) | https://play.google.com/store/apps/details?id=com.elitegames.myperfectfarm&hl=en |
+| Tapfire Mobile Games | https://tapfire.io/mobile-games/ |
+| Cowboy Lasso Master | https://www.crazygames.com/game/cowboy-lasso-hunting-idle-tycoon |
+
+---
 
 ### 🧩 Digital Marketing Blogs
 | Title | Description |
@@ -110,22 +120,16 @@ My content creation approach is structured and SEO-driven to ensure high-quality
 | [How to Measure Curtains Like a Pro: Getting the Right Size](https://3hlinen.com/blogs/news/how-to-measure-curtains-like-a-pro-getting-the-right-size) | A product-focused SEO article for an e-commerce brand. |
 
 ---
+## 🧠 What I Do (Core Expertise)
 
-## 🚀 What I Do
-
-I help businesses grow through strategic content:
-
-- SEO Blog Writing (Rank-focused & search intent optimized)  
-- Website Copywriting for SaaS, Agencies & Businesses  
-- High-conversion Landing Pages  
-- E-commerce Product Descriptions  
-- Technical Documentation & User Manuals  
-- Content Strategy & Keyword Research  
-- Keyword Mapping & Content Planning  
-- On-page SEO Optimization (H1, H2, Meta Tags, Internal Linking)  
-- Competitor Analysis & Content Gap Research  
-- AI-assisted SEO Content Optimization  
-- Brand Storytelling & Copywriting  
+| Area | Description |
+|------|-------------|
+| 🔎 SEO Content Writing | Blogs, landing pages, and ranking-focused articles |
+| 🎮 Gaming Content | Game descriptions, guides, FAQs, and publishing content |
+| 🛒 E-commerce Copywriting | Product descriptions & conversion-driven content |
+| 🧾 Technical Writing | Documentation, manuals, structured guides |
+| ✍️ Copywriting | Website & brand messaging |
+| 📊 Content Strategy | Keyword mapping, SEO planning, competitor research |
 
   ---
   
