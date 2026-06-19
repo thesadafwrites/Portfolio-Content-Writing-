@@ -1,6 +1,6 @@
 # ✍️ Sadaf – SEO Content Writer & Copywriter  
 
-Hi! I'm **Sadaf**, an SEO content writer and copywriter with 4+ years of experience in crafting compelling, high-converting content for **digital marketing**, **technology**, and **e-commerce brands**.  
+Hi! I'm **Sadaf**, an SEO content writer and copywriter with 4+ years of experience in crafting compelling, high-converting content for **digital marketing**, **technology**, **Gaming Indutry** and **e-commerce brands**.  
 
 ---
 
