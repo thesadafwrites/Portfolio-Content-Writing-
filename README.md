@@ -6,8 +6,12 @@ Hi! I'm **Sadaf**, an SEO content writer and copywriter with 4+ years of experie
 
 ## 🖋️ About Me
 I specialize in:
-- SEO Blog Writing  
-- Website Copy for Digital Marketing Agencies  
+- SEO content Writing  
+- Website Copywriting
+- Landing Pages
+- Brand Messaging
+- Content Strategy
+- E-commerce Copywriting
 - E-commerce Product Descriptions  
 - Technical Writing & Documentation  
 - Ghostwriting (Novels & Books)  
@@ -58,6 +62,19 @@ With a strong command of **SEO, AI tools, and analytics**, I create content that
 ---
 
 ## 🌍 Published Work  
+
+## 🌐 Website Copywriting 
+
+The following websites feature content written by me, including homepage copy, service pages, landing pages, and SEO-focused website content designed to improve user experience, search visibility, and conversions.
+
+| Website | Type of Copy | My Contribution |
+|----------|--------------|-----------------|
+| https://avarozdigital.com/digital-marketing-agency-dubai/ | Service Page / Landing Page | Wrote the complete SEO-optimized landing page, including headings, service descriptions, CTAs, and conversion-focused website copy for a digital marketing agency targeting businesses in Dubai. |
+| https://arktel.ae/ | Corporate Website | Created website copy across multiple pages, including telecom service content, landing pages, and SEO-focused web copy tailored for UAE customers. |
+| https://airvon.com/ | Business Website | Developed website content that communicates the company's services, value proposition, and brand messaging while maintaining SEO best practices. |
+| https://myperfectfarm.games/ | Gaming Website | Wrote website copy, game descriptions, feature content, FAQs, and user-focused content to support the game's online presence and improve discoverability. |
+
+---
 
 ## 🎮 Gaming Content Experience (Published Work)
 
